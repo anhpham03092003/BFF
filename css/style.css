@@ -62,7 +62,7 @@ body {
 }
 
 .flower--1 .flower__line {
-  height: 70vmin;
+  height: 100vmin;
   animation-delay: 0.3s;
 }
 
@@ -97,7 +97,7 @@ body {
 }
 
 .flower--2 .flower__line {
-  height: 60vmin;
+  height: 90vmin;
   animation-delay: 0.6s;
 }
 
@@ -124,6 +124,7 @@ body {
 }
 
 .flower--3 .flower__line {
+  height: 90vmin;
   animation-delay: 0.9s;
 }
 
@@ -176,8 +177,8 @@ body {
   position: absolute;
   bottom: 0;
   left: 50%;
-  width: 8vmin;
-  height: 11vmin;
+  width: 15vmin;
+  height: 20vmin;
   border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
   background-color: #a7ffee;
   background-image: linear-gradient(to top, #fff, #fff);
